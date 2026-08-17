@@ -19,7 +19,7 @@ License: GPL-3
 LazyData: TRUE
 LazyDataCompression: xz
 Depends:
-    R (>= 3.1.2)
+    R (>= 4.2.0)
 Imports: tibble
 Suggests:
     devtools,
